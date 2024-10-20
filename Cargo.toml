@@ -1,0 +1,6 @@
+[package]
+name = "laba_6_gcd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
